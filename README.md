@@ -29,6 +29,8 @@ Ele permite registrar múltiplos pontos na tela e automatizar cliques com contro
 
 Projeto focado em simplicidade e usabilidade, sem dependências pesadas.
 
+![Preview](assets/preview.png)
+
 ---
 
 ## 📦 Versions
@@ -46,3 +48,4 @@ Projeto focado em simplicidade e usabilidade, sem dependências pesadas.
 git clone https://github.com/SEU_USUARIO/ClickFlow.git
 cd ClickFlow
 pip install -r requirements.txt
+python main.py
