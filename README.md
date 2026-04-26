@@ -13,7 +13,7 @@
 👉 Baixe a versão mais recente:
 
 <p align="center">
-  <a href="https://github.com/PedroHMDosSantos/ClickFlow/releases/latest">
+  <a href="https://github.com/PedroHMDosSantos/ClickFlow/releases/download/v.4.0.0/ClickFlow-Setup-v4.0.0.exe">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-ClickFlow%20Setup-success?style=for-the-badge&logo=windows"/>
   </a>
 </p>
