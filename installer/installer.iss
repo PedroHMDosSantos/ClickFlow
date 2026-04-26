@@ -11,7 +11,7 @@ WizardStyle=modern
 PrivilegesRequired=admin
 
 [Files]
-Source: "dist\ClickFlow.exe"; DestDir: "{app}"; Flags: ignoreversion
+Source: "..\dist\main.exe"; DestDir: "{app}"; Flags: ignoreversion
 
 [Icons]
 Name: "{group}\ClickFlow"; Filename: "{app}\ClickFlow.exe"

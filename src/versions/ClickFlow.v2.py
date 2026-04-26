@@ -6,9 +6,9 @@ import threading
 import keyboard
 
 # ===== CONFIG DARK MODE =====
-BG = "#1e1e1e"
-FG = "#ffffff"
-BTN = "#2d2d2d"
+BG = "#ffffff"
+FG = "#000000"
+BTN = "#ffffff"
 ACCENT = "#4CAF50"
 
 # ===== VARIÁVEIS =====
@@ -107,14 +107,14 @@ def styled_label(text):
     return tk.Label(frame, text=text, bg=BG, fg=FG, anchor="w")
 
 def styled_entry():
-    return tk.Entry(frame, bg="#2b2b2b", fg=FG, insertbackground=FG, relief="flat")
+    return tk.Entry(frame, bg="#998686", fg=FG, insertbackground=FG, relief="flat")
 
 def styled_button(text, cmd):
     return tk.Button(
         frame,
         text=text,
         command=cmd,
-        bg=BTN,
+        bg="#998686",
         fg=FG,
         activebackground=ACCENT,
         activeforeground="#000",
@@ -139,7 +139,7 @@ styled_button("Iniciar", iniciar).pack(anchor="w", pady=10)
 style = ttk.Style()
 style.theme_use("default")
 style.configure("TProgressbar",
-                troughcolor="#2b2b2b",
+                troughcolor="#998686",
                 background=ACCENT,
                 thickness=10)
 
@@ -150,7 +150,7 @@ progresso.pack(anchor="w", pady=10)
 log_text = tk.Text(
     frame,
     height=8,
-    bg="#2b2b2b",
+    bg="#998686",
     fg=FG,
     insertbackground=FG,
     relief="flat"
