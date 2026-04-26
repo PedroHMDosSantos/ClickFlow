@@ -31,6 +31,15 @@ Projeto focado em simplicidade e usabilidade, sem dependências pesadas.
 
 ---
 
+## 📦 Versions
+
+- v1.0 → Base funcional
+- v2.0 → UI melhorada
+- v3.0 → Hotkeys e estabilidade
+- v4.0 → Release final
+
+---
+
 ## 📦 Instalação
 
 ```bash
