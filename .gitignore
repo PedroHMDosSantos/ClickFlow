@@ -1,0 +1,42 @@
+# ===== Python =====
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.spec
+
+# ===== Ambientes =====
+.venv/
+venv/
+env/
+ENV/
+
+# ===== Build / PyInstaller =====
+build/
+dist/
+
+# ===== Executáveis =====
+*.exe
+
+# ===== Logs =====
+*.log
+
+# ===== Sistema =====
+.DS_Store
+Thumbs.db
+
+# ===== IDE / Editor =====
+.vscode/
+.idea/
+
+# ===== Arquivos temporários =====
+*.tmp
+*.temp
+
+# ===== Cache =====
+.cache/
+
+# ===== Outros =====
+*.bak
+*.swp
