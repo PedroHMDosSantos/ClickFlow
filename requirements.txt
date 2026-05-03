@@ -1,2 +1,2 @@
-pyautogui
-keyboard
+pyautogui>=0.9.54,<1.0
+keyboard>=0.13.5,<1.0
