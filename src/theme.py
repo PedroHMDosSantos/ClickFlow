@@ -1,0 +1,7 @@
+BG = "#1e1e1e"
+FG = "#ffffff"
+BTN = "#2d2d2d"
+ACCENT = "#4CAF50"
+HINT = "#aaaaaa"
+ENTRY_BG = "#2b2b2b"
+HOVER_BG = "#353535"
