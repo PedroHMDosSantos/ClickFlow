@@ -99,7 +99,7 @@ def iniciar_app():
         log("Configuração carregada!")
 
     # =========================
-    # BOTÃO BONITO
+    # BOTAO
     # =========================
     def btn(parent, txt, cmd):
         return tk.Button(
